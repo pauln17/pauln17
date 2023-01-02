@@ -1,11 +1,11 @@
-<img alt="Coding" src="https://media0.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=ecf05e47euxkxtokjaohykgeoj8k775nu794u26gxon43ug3&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/595/screenshots/15292431/media/82585a63068a24b7827623b09a2c4877.png?compress=1&resize=1000x750">
 <h1 align="center">Hi 👋, I'm Phuc Nguyen</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 <img align="right" alt="Coding" src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47d6oel48lahwu8qhorsouwb34v4cqc1par3t3cnl4&rid=giphy.gif&ct=g"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauln17&label=Profile%20views&color=0e75b6&style=flat" alt="pauln17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pauln04" target="blank"><img src="https://img.shields.io/twitter/follow/pauln04?logo=twitter&style=for-the-badge" alt="pauln04" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PN2026" target="blank"><img src="https://img.shields.io/twitter/follow/pauln04?logo=twitter&style=for-the-badge" alt="PN2026" /></a> </p>
 
 - 🔭 I’m currently working on **CS50's Introduction to Computer Science Course and CS50w's Web Programming with Python and JavaScript**
 
