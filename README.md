@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phuc Nguyen</h1>
 <h3 align="center">A passionate developer from Canada</h3>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauln17&label=Profile%20views&color=0e75b6&style=flat" alt="pauln17" /> </p>
 
@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauln17&show_icons=true&locale=en" alt="pauln17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauln17&" alt="pauln17" /></p>
+
+
+
+
+
