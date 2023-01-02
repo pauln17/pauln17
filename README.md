@@ -1,7 +1,6 @@
-<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/595/screenshots/15292431/media/82585a63068a24b7827623b09a2c4877.png?compress=1&resize=1000x500">
 <h1 align="center">Hi 👋, I'm Phuc Nguyen</h1>
 <h3 align="center">A passionate developer from Canada</h3>
-<img align="right" alt="Coding" src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47d6oel48lahwu8qhorsouwb34v4cqc1par3t3cnl4&rid=giphy.gif&ct=g"> 
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauln17&label=Profile%20views&color=0e75b6&style=flat" alt="pauln17" /> </p>
 
@@ -31,8 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauln17&show_icons=true&locale=en" alt="pauln17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauln17&" alt="pauln17" /></p>
-
-
-
-
-
