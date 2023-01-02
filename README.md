@@ -1,7 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-error-basic-oYQ9HRm5Mo7VXeMNVR">via GIPHY</a></p>
+<img alt="Coding" src="https://media0.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=ecf05e47euxkxtokjaohykgeoj8k775nu794u26gxon43ug3&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Phuc Nguyen</h1>
 <h3 align="center">A passionate developer from Canada</h3>
-<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">via GIPHY</a></p>
+<img align="right" alt="Coding" src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47d6oel48lahwu8qhorsouwb34v4cqc1par3t3cnl4&rid=giphy.gif&ct=g"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauln17&label=Profile%20views&color=0e75b6&style=flat" alt="pauln17" /> </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pauln04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pauln04" height="30" width="40" /></a>
+<a href="https://twitter.com/PN2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pauln04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/phuc-n-3b01ab25a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuc-n-3b01ab25a/" height="30" width="40" /></a>
 <a href="https://instagram.com/pauln_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pauln_2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pauln_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pauln_04" height="30" width="40" /></a>
