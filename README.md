@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
-- 🔭 I’m currently working on **CS50's Introduction to Computer Science Course and CS50w's Web Programming with Python and JavaScript**
+- 🔭 I’m currently working on **CS50's Introduction to Computer Science Course and plan to go onto The Odin Project afterwards :)**
 
-- 🌱 I’m currently learning **Front-End and Back-End: Python, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **paulnguyen0417@gmail.com**
 
