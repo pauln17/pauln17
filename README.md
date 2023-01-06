@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Phuc Nguyen</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-<div style="margin: 25px;">
-  - 🔭 I’m currently working on **CS50's Introduction to Computer Science Course and plan to go onto The Odin Project afterwards :)**
+
+  - 🔭 I’m currently working on **CS50's Introduction to Computer Science Course and plan to go 
+    onto The Odin Project afterwards :)**
 
   - 🌱 I’m currently learning **web development**
 
   - 📫 How to reach me **paulnguyen0417@gmail.com**
 
   - ⚡ Fun fact **I speak two languages, English and Vietnamese!**
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pn2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pn2026" height="30" width="40" /></a>
