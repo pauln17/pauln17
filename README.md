@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Canada</h3>
 <img style="margin: 25px;" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
-  - 🔭 I’m currently working on **CS50's Introduction to Computer Science Course and plan to go onto The Odin Project afterwards :)**
+  - 🔭 I’m currently working on **CS50's Introduction to Computer Science Course and plan to go onto The Odin Project :)**
 
   - 🌱 I’m currently learning **web development**
 
