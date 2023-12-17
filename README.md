@@ -6,8 +6,6 @@
 
   - 🌱 I’m currently learning **web development**
 
-  - 📫 How to reach me **paulnguyen0417@gmail.com**
-
   - ⚡ Fun fact **I speak two languages, English and Vietnamese!**
 
 <h3 align="left">Connect with me:</h3>
